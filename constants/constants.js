@@ -1,11 +1,11 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Gibson Waheire';
 
 export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Residence: 'Kenya',
+  City: 'Nairobi',
+  Age: '25',
 };
 
 export const SKILLS = [
@@ -56,12 +56,12 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'gibsonwaheire@gmail.com',
+  PHONE: '+254700000000',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/gibsonwaheire',
+  LINKEDIN: 'https://www.linkedin.com/in/gibsonwaheire/',
+  TWITTER: 'https://twitter.com/gibsonwaheire',
+  FACEBOOK: 'https://www.facebook.com/gibsonwaheire',
 };
